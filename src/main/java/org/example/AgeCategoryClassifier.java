@@ -18,6 +18,7 @@ public class AgeCategoryClassifier {
             System.out.println("You are a senior.");
         } else {
             System.out.println("Invalid age entered. Please enter a non-negative age.");
+
         }
     }
 }

@@ -27,6 +27,7 @@ public class Main {
         int vowelCount = vowelCounter.countVowels(scanner);
         System.out.printf("Total number of vowels found: %d%n", vowelCount);
 
+
         System.out.println();
 
         System.out.println("==================Task4==================");

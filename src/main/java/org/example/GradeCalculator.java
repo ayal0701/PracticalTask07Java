@@ -26,5 +26,6 @@ public class GradeCalculator {
         }
 
         System.out.printf("The letter grade for a score of %d is: %c%n", score, grade);
+
     }
 }

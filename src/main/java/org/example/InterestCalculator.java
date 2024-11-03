@@ -22,6 +22,7 @@ public class InterestCalculator {
         for (int year = 1; year <= years; year++) {
             amount *= (1 + annualInterestRate);
             System.out.printf("%-10d %-10.2f%n", year, amount);
+
         }
     }
 }

@@ -12,6 +12,7 @@ public class EvenOddChecker {
             System.out.println(number + " is an even number.");
         } else {
             System.out.println(number + " is an odd number.");
+
         }
     }
 }

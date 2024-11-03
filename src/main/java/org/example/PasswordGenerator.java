@@ -17,6 +17,7 @@ public class PasswordGenerator {
         while (length < 8) {
             System.out.print("Password length must be at least 8. Please enter again: ");
             length = Integer.parseInt(scanner.nextLine());
+
         }
 
         boolean includeLowercase = true;

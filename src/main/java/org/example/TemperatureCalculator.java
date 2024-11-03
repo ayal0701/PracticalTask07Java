@@ -13,6 +13,7 @@ public class TemperatureCalculator {
             totalTemperature += dailyTemperature;
         }
 
+
         return totalTemperature / 5;
     }
 }

@@ -10,5 +10,6 @@ public class PriceCalculator {
 
         double vat = priceExcludingVAT * 0.20;
         return priceExcludingVAT + vat;
+
     }
 }
